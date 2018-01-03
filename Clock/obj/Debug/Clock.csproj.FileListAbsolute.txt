@@ -1,0 +1,13 @@
+D:\Work\Visual\Clock\Clock\bin\Debug\Clock.exe.config
+D:\Work\Visual\Clock\Clock\bin\Debug\Clock.exe
+D:\Work\Visual\Clock\Clock\bin\Debug\Clock.pdb
+D:\Work\Visual\Clock\Clock\bin\Debug\CircularProgressBar.dll
+D:\Work\Visual\Clock\Clock\bin\Debug\WinFormAnimation.dll
+D:\Work\Visual\Clock\Clock\bin\Debug\CircularProgressBar.xml
+D:\Work\Visual\Clock\Clock\bin\Debug\WinFormAnimation.xml
+D:\Work\Visual\Clock\Clock\obj\Debug\Clock.csprojResolveAssemblyReference.cache
+D:\Work\Visual\Clock\Clock\obj\Debug\Clock.Form1.resources
+D:\Work\Visual\Clock\Clock\obj\Debug\Clock.Properties.Resources.resources
+D:\Work\Visual\Clock\Clock\obj\Debug\Clock.csproj.GenerateResource.Cache
+D:\Work\Visual\Clock\Clock\obj\Debug\Clock.exe
+D:\Work\Visual\Clock\Clock\obj\Debug\Clock.pdb
